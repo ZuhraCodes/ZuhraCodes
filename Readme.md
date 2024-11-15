@@ -1,4 +1,4 @@
-# 👋 Salom, men Manuchehra Nurmexrojova!
+# 👋 Salom, men Zuhra Sayfullayeva!
 
 `Backend Dasturchi | Telegram Bot Yaratish | Full-Stack Developer`
 
