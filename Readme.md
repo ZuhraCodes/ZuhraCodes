@@ -1,6 +1,6 @@
 # 👋 Salom, men Zuhra Sayfullayeva!
 
-`Backend Dasturchi | Telegram Bot Yaratish | Full-Stack Developer`
+`Backend Dasturchi | Telegram Bot Yaratish 
 
 ### 🧑‍💻 Men haqimda
 Salom! Men backend dasturchiman.
