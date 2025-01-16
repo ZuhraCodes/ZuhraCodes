@@ -1,12 +1,13 @@
 # 👋 Salom, men Zuhra Sayfullayeva!
+hack
+hack
+hack
 
 `Backend Dasturchi | Telegram Bot Yaratish 
 
 ### 🧑‍💻 Men haqimda
 Salom! Men backend dasturchiman.
-hack
-hack
-hack
+
 ..
 - Ism: Zuhra
 - Familiya: Sayfullayeva
