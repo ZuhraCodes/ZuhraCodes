@@ -4,6 +4,9 @@
 
 ### 🧑‍💻 Men haqimda
 Salom! Men backend dasturchiman.
+hack
+hack
+hack
 ..
 - Ism: Zuhra
 - Familiya: Sayfullayeva
