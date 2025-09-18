@@ -2,8 +2,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Salom,%20men%20Zuhra!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20ML%20Engineer&descAlignY=55&descAlign=50)
 ## 🎯 About Me  
 💻 **Backend Developer | ML Engineer**  
-🚀 Yangi texnologiyalarni o‘rganishga qiziqaman va real muammolarga yechim beradigan loyihalar yaratishga intilaman.  
-
 
 
 ## 🔧 Skills  
