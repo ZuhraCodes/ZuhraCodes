@@ -33,7 +33,6 @@
 
 
 
-
 ## 📊 GitHub Statistics  
 
 <p align="center">
@@ -45,6 +44,11 @@
   <img src="https://streak-stats.demolab.com?user=ZuhraCodes&theme=radical&border_radius=5" height="165">
 </p>
 
+
+## 📂 Repositories  
+
+- 📘 [**Assignments**](https://github.com/ZuhraCodes/Assignments) – Here I always put my university assignments and home works.  
+- 🚀 [**Learning_projects**](https://github.com/ZuhraCodes/Learning_projects) – Here I upload projects I learned by myself (self-studied).  
 
 
 ## 🌍 Contacts  
