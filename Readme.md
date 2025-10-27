@@ -1,10 +1,6 @@
 <!-- Profil banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Hi,%20I'm%20Zuhra!&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
 
-<h1 align="center">👩‍💻 Hi, I'm Zuhra Sayfullayeva</h1>
-<h3 align="center">🚀 Junior Machine Learning Engineer | NLP & AI Enthusiast | Backend Developer</h3>
-
-
 ### 🧠 About Me  
 
 🎓 I’m a Software Engineering student at **PDP University**, currently studying **Machine Learning and AI** at **Nazarbayev University** as part of an exchange program.  
