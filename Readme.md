@@ -3,7 +3,7 @@
 
 ### 🧠 About Me  
 
-🎓 I’m a Software Engineering student at **PDP University**, currently studying **Machine Learning and AI** at **Nazarbayev University** as part of an exchange program.  
+🎓 I’m a Software Engineering (Python) student at **PDP University**and studied **Machine Learning and AI** at **Nazarbayev University** as part of an exchange program.  
 💡 I love building intelligent systems that combine **backend logic** with **machine learning models**.  
 📊 Passionate about **NLP**, **data-driven decision-making**, and **model optimization**.  
 🌱 Always learning new things to grow as a **Full-Stack ML Engineer**.  
@@ -33,7 +33,7 @@
 
 #### 🌐 Backend & APIs
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
